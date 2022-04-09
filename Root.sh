@@ -1,1 +1,1 @@
-apt update && yes | upgrade
+apt update && yes | apt upgrade
